@@ -1,16 +1,62 @@
-# React + Vite
+## CodeWorld — Interactive Coding Learning Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+**CodeWorld** is a beginner-friendly interactive coding education website designed to help students learn programming by **learning concepts, writing code, running it directly in the browser, and completing challenges**.
 
-Currently, two official plugins are available:
+### 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* 🐍 **Interactive Python Course**
+* 📚 Step-by-step lessons
+* 💻 In-browser Python code editor
+* ▶️ Run Python code directly in the browser
+* ⚡ Coding challenges
+* 📈 Automatic lesson progress tracking
+* 💾 Progress saved using browser `localStorage`
+* 🧩 Practical examples for every concept
+* 📱 Responsive design for different screen sizes
+* 🎯 Beginner-friendly learning path
+* 🏆 Final mini-project
 
-## React Compiler
+### 📖 Current Python Lessons
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+1. What is Python?
+2. Variables
+3. Input & Output
+4. Conditions
+5. Loops
+6. Functions
+7. Lists
+8. Mini Project
 
-## Expanding the Oxlint configuration
+### 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+* **React**
+* **Vite**
+* **JavaScript**
+* **CSS**
+* **Pyodide** — runs Python directly in the browser
+* **LocalStorage** — saves learning progress
+
+### 🎯 Project Goal
+
+The goal of CodeWorld is to make programming easier to learn by combining **short explanations + real code + instant execution + challenges** in one place.
+
+Instead of only reading programming tutorials, learners can immediately **write and test what they learn**.
+
+### 🔮 Future Plans
+
+* More programming languages
+* JavaScript course
+* C/C++ course
+* Interactive coding challenges
+* Projects and practice problems
+* Better progress analytics
+* More advanced courses
+* Coding playground
+* Certificates
+* Community features
+
+### 👨‍💻 Built With
+
+This project is being developed as a learning-focused web platform using modern frontend technologies.
+
+**CodeWorld — Learn. Code. Build.**
